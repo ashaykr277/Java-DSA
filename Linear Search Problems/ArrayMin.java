@@ -1,4 +1,4 @@
-public class ArrayMin {
+public class ArrayMin{
     public static void main(String[] args) {
         int[] arr = {140, 250, 330, 240, 510};
         System.out.println(min(arr));
